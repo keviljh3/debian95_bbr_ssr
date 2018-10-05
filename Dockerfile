@@ -1,4 +1,4 @@
-FROM debian9:latest
+FROM debian:9.5
 
 RUN apt-get install wget
 
